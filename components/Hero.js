@@ -9,7 +9,7 @@ export default class Hero extends Component {
       <Fragment>
         <section id='hero'>
           <h1>AQ War Effort</h1>
-          <h3>Deviate Delight</h3>
+          <h3>Arugal</h3>
           <h4>Last Updated: {this.props.date}</h4>
         </section>
       </Fragment>
